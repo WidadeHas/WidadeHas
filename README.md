@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me :  my instagram  @__widade
-- 😄 Pronouns: She/HEr
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 
 <!---
